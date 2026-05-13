@@ -3,7 +3,7 @@
 
 <img align="right" alt="" height="200px" src="https://i.imgur.com/FHZlgzI.gif">
 
-<p>Sou estudante de Análise e Desenvolvimento de Sistemas pela UNOESTE (Universidade do Oeste Paulista), com foco em desenvolvimento backend. Atualmente trabalho principalmente com Java e Spring Boot, desenvolvendo APIs REST e aplicações integradas a bancos de dados relacionais como PostgreSQL.</p>
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas pela UNOESTE (Universidade do Oeste Paulista), com foco em desenvolvimento fullstack. Tenho sólida bagagem no ecossistema Back-end com Java e Spring Boot, além de construir interfaces dinâmicas e robustas utilizando React e TypeScript. Atualmente focado na criação de APIs REST seguras, conteinerização com Docker e integração com bancos de dados relacionais como PostgreSQL.</p>
 
 <h3 align="left">Connect with me!</h3>
 
@@ -15,18 +15,22 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="20" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="20" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="typescript logo"  />
   <img width="20" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="20" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="20" />
+
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
 
