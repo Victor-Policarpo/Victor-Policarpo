@@ -3,7 +3,7 @@
 
 <img align="right" alt="" height="200px" src="https://i.imgur.com/FHZlgzI.gif">
 
-<p>Sou estudante de Análise e Desenvolvimento de Sistemas pela UNOESTE (Universidade do Oeste Paulista), com foco em desenvolvimento fullstack. Tenho sólida bagagem no ecossistema Back-end com Java e Spring Boot, além de construir interfaces dinâmicas e robustas utilizando React e TypeScript. Atualmente focado na criação de APIs REST seguras, conteinerização com Docker e integração com bancos de dados relacionais como PostgreSQL.</p>
+<p>Desenvolvedor backend com foco em Java e Spring Boot, experiência na construção de <br> APIs REST seguras e implementação de regras de negócio. Também possuo experiência<br> com React e TypeScript para desenvolvimento de aplicações fullstack, além de Docker, PostgreSQL e deploy de aplicações em AWS.</p>
 
 <h3 align="left">Connect with me!</h3>
 
