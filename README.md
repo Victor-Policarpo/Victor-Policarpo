@@ -3,7 +3,7 @@
 
 <img align="right" alt="" height="200px" src="https://i.imgur.com/FHZlgzI.gif">
 
-<p>Desenvolvedor backend com foco em Java e Spring Boot, experiência na construção de <br> APIs REST seguras e implementação de regras de negócio. Também possuo experiência<br> com React e TypeScript para desenvolvimento de aplicações fullstack, além de Docker, PostgreSQL e deploy de aplicações em AWS.</p>
+<p>Desenvolvedor backend com foco em Java e Spring Boot, experiência na construção de APIs REST seguras e implementação de regras de negócio. Também possuo experiência com React e TypeScript para desenvolvimento de aplicações fullstack, além de Docker, PostgreSQL e deploy de aplicações em AWS.</p>
 
 <h3 align="left">Connect with me!</h3>
 
